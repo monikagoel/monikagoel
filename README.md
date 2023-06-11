@@ -1,5 +1,8 @@
 #Hi I am **Monika Goel**!! Good to see you  👋
 
+Bangalore
+
+***Aspiring  Data Analyst***
 <!--
 **monikagoel/monikagoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
