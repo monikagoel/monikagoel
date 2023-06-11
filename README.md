@@ -6,7 +6,7 @@ Bangalore
 
 ##About ME
 
- created  respository to showcase skills and track my progress in Data Analytics related topics
+ Created  respository to showcase skills and track my progress in Data Analytics related topics
  
  Skills: Power BI, SQL, Python, Excel
 
