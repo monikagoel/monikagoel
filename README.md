@@ -18,7 +18,7 @@ Data Analyst Skillpath: Zero to Hero in Excel, SQL & Python
 
 2023 Python Data Analysis & Visualization Masterclass 
 
-[linkedin](https://www.linkedin.com/in/monika-goel-1b35a812a/)link
+
 <!--
 **monikagoel/monikagoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
